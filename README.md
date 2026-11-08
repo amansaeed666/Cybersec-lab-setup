@@ -78,11 +78,6 @@ The NAT Network was configured with the following settings:
 - **DHCP:** Enabled
 
 The NAT Network allows the Kali Linux virtual machine to communicate through the host computer's network connection. DHCP was enabled to automatically manage IP address assignment within the network.
-
-**Screenshot: NAT Network Configuration**
-
-> Add the NAT Network screenshot here showing the `10.0.0.0/24` IPv4 prefix.
-
 ---
 
 ## Step 6: Configure the Virtual Machine Network Adapter
