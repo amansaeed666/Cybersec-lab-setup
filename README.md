@@ -1,9 +1,37 @@
 # Cybersec-lab-setup
+# Week 1: Cybersecurity Lab Setup for Networkwalks
+
+## About
+
+This repository documents the **Week 1 Cybersecurity Lab Setup for the Networkwalks project**. The main focus of this week was to prepare a virtual cybersecurity lab environment that can be used for networking and security-related practical tasks.
+
+The lab environment was created using **Oracle VirtualBox** and **Kali Linux**. Kali Linux provides a suitable platform for learning cybersecurity concepts, network analysis, and security testing in a controlled virtual environment.
+
+This setup will serve as the foundation for the upcoming practical activities and tasks in the Networkwalks project.
+
+---
+
+## Project Goal
+
+The goal of the **Networkwalks project** is to develop practical knowledge and skills in networking and cybersecurity through hands-on laboratory activities.
+
+The main objectives of this lab setup are to:
+
+- Create a safe and isolated environment for cybersecurity practice.
+- Install and configure Kali Linux as a virtual machine.
+- Configure network connectivity using a NAT Network.
+- Prepare a foundation for future networking and cybersecurity experiments.
+- Develop practical skills through hands-on learning and testing.
+
+---
+
 # Kali Linux Virtual Machine Lab Setup
 
 ## Introduction
 
-The purpose of this lab was to create and configure a **Kali Linux Virtual Machine** using **Oracle VirtualBox**. Kali Linux is a Linux-based operating system commonly used for cybersecurity, networking, and security testing. VirtualBox provides a virtual environment where Kali Linux can run separately from the main operating system.
+As part of **Week 1 of the Networkwalks Cybersecurity Lab**, the first task was to prepare the basic virtual lab environment. A Kali Linux virtual machine was created using Oracle VirtualBox.
+
+The purpose of this setup is to provide a controlled environment where networking and cybersecurity concepts can be practiced without affecting the main operating system. The virtual lab will be used in future project activities for network configuration, security testing, and other cybersecurity experiments.
 
 ---
 
@@ -73,7 +101,7 @@ After completing the installation and network configuration, the Kali Linux virt
 
 The Kali Linux login screen appeared, confirming that the operating system was correctly installed and running inside VirtualBox.
 
-The completed virtual machine environment is now ready for networking and cybersecurity practice.
+The completed virtual machine environment is now ready for future networking and cybersecurity practice.
 
 ---
 
@@ -91,4 +119,6 @@ The completed virtual machine environment is now ready for networking and cybers
 
 ## Conclusion
 
-In this lab, a Kali Linux virtual machine was successfully created using Oracle VirtualBox. The Kali Linux operating system was installed using an ISO image, and a NAT Network with the IPv4 prefix **10.0.0.0/24** was configured to provide network connectivity. The completed lab environment can now be used for networking, cybersecurity, and security testing practice.
+During **Week 1 of the Networkwalks project**, a basic cybersecurity lab environment was successfully prepared. Oracle VirtualBox was installed, Kali Linux was configured as a virtual machine, and a NAT Network was created to provide network connectivity.
+
+This lab setup provides a strong foundation for the upcoming networking and cybersecurity tasks and will support practical learning throughout the Networkwalks project.
